@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "action",
+    "icon": "Zap",
+    "color": "bg-red-500",
+    "i18n": {
+      "en": {
+        "name": "Action",
+        "description": "Fast-paced games with exciting gameplay"
+      },
+      "zh-TW": {
+        "name": "動作",
+        "description": "節奏快速、玩法刺激的遊戲"
+      },
+      "ja": {
+        "name": "アクション",
+        "description": "エキサイティングなゲームプレイの高速ゲーム"
+      }
+    }
+  },
+  {
+    "slug": "puzzle",
+    "icon": "Puzzle",
+    "color": "bg-green-500",
+    "i18n": {
+      "en": {
+        "name": "Puzzle",
+        "description": "Brain-teasing challenges and logic games"
+      },
+      "zh-TW": {
+        "name": "拼圖",
+        "description": "燒腦挑戰和邏輯遊戲"
+      },
+      "ja": {
+        "name": "パズル",
+        "description": "頭脳を使う挑戦と論理ゲーム"
+      }
+    }
+  },
+  {
+    "slug": "adventure",
+    "icon": "Map",
+    "color": "bg-purple-500",
+    "i18n": {
+      "en": {
+        "name": "Adventure",
+        "description": "Explore new worlds and epic quests"
+      },
+      "zh-TW": {
+        "name": "冒險",
+        "description": "探索新世界和史詩任務"
+      },
+      "ja": {
+        "name": "アドベンチャー",
+        "description": "新しい世界と壮大なクエストを探索"
+      }
+    }
+  },
+  {
+    "slug": "racing",
+    "icon": "Car",
+    "color": "bg-orange-500",
+    "i18n": {
+      "en": {
+        "name": "Racing",
+        "description": "High-speed racing and driving games"
+      },
+      "zh-TW": {
+        "name": "賽車",
+        "description": "高速賽車和駕駛遊戲"
+      },
+      "ja": {
+        "name": "レーシング",
+        "description": "高速レースと運転ゲーム"
+      }
+    }
+  },
+  {
+    "slug": "music",
+    "icon": "Music",
+    "color": "bg-blue-500",
+    "i18n": {
+      "en": {
+        "name": "Music",
+        "description": "Rhythm and music-based games"
+      },
+      "zh-TW": {
+        "name": "音樂",
+        "description": "節奏和音樂類遊戲"
+      },
+      "ja": {
+        "name": "音楽",
+        "description": "リズムと音楽ベースのゲーム"
+      }
+    }
+  },
+  {
+    "slug": "casual",
+    "icon": "Coffee",
+    "color": "bg-pink-500",
+    "i18n": {
+      "en": {
+        "name": "Casual",
+        "description": "Easy-to-play games for everyone"
+      },
+      "zh-TW": {
+        "name": "休閒",
+        "description": "適合所有人的輕鬆遊戲"
+      },
+      "ja": {
+        "name": "カジュアル",
+        "description": "誰でも簡単にプレイできるゲーム"
+      }
+    }
+  }
+]

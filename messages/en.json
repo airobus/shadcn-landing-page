@@ -1,0 +1,40 @@
+{
+  "Header": {
+    "home": "Home",
+    "games": "Games",
+    "categories": "Categories",
+    "search_placeholder": "Search games...",
+    "language": "Language"
+  },
+  "Hero": {
+    "title": "Play Amazing Games",
+    "subtitle": "Instantly",
+    "description": "Discover thousands of free online games. No downloads, no registration required. Just click and play!",
+    "play_now": "Play Now",
+    "browse_games": "Browse Games",
+    "featured_games": "Featured Games"
+  },
+  "GameCard": {
+    "play_now": "Play Now",
+    "rating": "Rating",
+    "votes": "votes",
+    "by": "by"
+  },
+  "Categories": {
+    "title": "Game Categories",
+    "description": "Explore games by category",
+    "view_all": "View All"
+  },
+  "Footer": {
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "© 2024 Gaming Portal. All rights reserved."
+  },
+  "Common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again"
+  }
+}

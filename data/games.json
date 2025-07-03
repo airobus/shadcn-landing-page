@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "sprunki-itn",
+    "isFeatured": true,
+    "game_url": "https://example.com/games/sprunki",
+    "cover_image_url": "https://via.placeholder.com/400x300/4F46E5/FFFFFF?text=Sprunki",
+    "developer": "NyankoBfLolCombine",
+    "rating": "8.8",
+    "votes": "580172",
+    "tags": ["music", "casual", "creative"],
+    "category": "music",
+    "i18n": {
+      "en": {
+        "name": "Sprunki",
+        "description": "Sprunki is a casual music game that lets you craft unique soundscapes by combining different musical elements and characters."
+      },
+      "zh-TW": {
+        "name": "斯普朗基",
+        "description": "斯普朗基是一款讓您創造獨特音景的休閒音樂遊戲，通過組合不同的音樂元素和角色來創作。"
+      },
+      "ja": {
+        "name": "スプランキ",
+        "description": "スプランキは、さまざまな音楽要素とキャラクターを組み合わせてユニークなサウンドスケープを作成できるカジュアルな音楽ゲームです。"
+      }
+    }
+  },
+  {
+    "slug": "puzzle-master",
+    "isFeatured": true,
+    "game_url": "https://example.com/games/puzzle-master",
+    "cover_image_url": "https://via.placeholder.com/400x300/059669/FFFFFF?text=Puzzle+Master",
+    "developer": "PuzzleStudio",
+    "rating": "9.2",
+    "votes": "342156",
+    "tags": ["puzzle", "strategy", "brain"],
+    "category": "puzzle",
+    "i18n": {
+      "en": {
+        "name": "Puzzle Master",
+        "description": "Challenge your mind with hundreds of brain-teasing puzzles. Perfect for puzzle enthusiasts of all ages."
+      },
+      "zh-TW": {
+        "name": "拼圖大師",
+        "description": "用數百個燒腦謎題挑戰你的思維。適合所有年齡段的拼圖愛好者。"
+      },
+      "ja": {
+        "name": "パズルマスター",
+        "description": "何百もの頭脳を使うパズルで心を挑戦しよう。あらゆる年齢のパズル愛好家に最適。"
+      }
+    }
+  },
+  {
+    "slug": "racing-legends",
+    "isFeatured": false,
+    "game_url": "https://example.com/games/racing-legends",
+    "cover_image_url": "https://via.placeholder.com/400x300/DC2626/FFFFFF?text=Racing+Legends",
+    "developer": "SpeedGames",
+    "rating": "8.5",
+    "votes": "198432",
+    "tags": ["racing", "action", "cars"],
+    "category": "racing",
+    "i18n": {
+      "en": {
+        "name": "Racing Legends",
+        "description": "Experience high-speed racing with legendary cars on iconic tracks around the world."
+      },
+      "zh-TW": {
+        "name": "賽車傳奇",
+        "description": "在世界各地的標誌性賽道上駕駛傳奇賽車，體驗高速競賽。"
+      },
+      "ja": {
+        "name": "レーシングレジェンド",
+        "description": "世界中の象徴的なトラックで伝説の車を運転し、高速レースを体験しよう。"
+      }
+    }
+  },
+  {
+    "slug": "adventure-quest",
+    "isFeatured": true,
+    "game_url": "https://example.com/games/adventure-quest",
+    "cover_image_url": "https://via.placeholder.com/400x300/7C3AED/FFFFFF?text=Adventure+Quest",
+    "developer": "QuestStudios",
+    "rating": "9.0",
+    "votes": "456789",
+    "tags": ["adventure", "rpg", "fantasy"],
+    "category": "adventure",
+    "i18n": {
+      "en": {
+        "name": "Adventure Quest",
+        "description": "Embark on an epic fantasy adventure filled with magic, monsters, and legendary treasures."
+      },
+      "zh-TW": {
+        "name": "冒險任務",
+        "description": "踏上充滿魔法、怪物和傳奇寶藏的史詩奇幻冒險之旅。"
+      },
+      "ja": {
+        "name": "アドベンチャークエスト",
+        "description": "魔法、モンスター、伝説の宝物に満ちた壮大なファンタジーアドベンチャーに乗り出そう。"
+      }
+    }
+  },
+  {
+    "slug": "space-shooter",
+    "isFeatured": false,
+    "game_url": "https://example.com/games/space-shooter",
+    "cover_image_url": "https://via.placeholder.com/400x300/1F2937/FFFFFF?text=Space+Shooter",
+    "developer": "CosmicGames",
+    "rating": "8.7",
+    "votes": "234567",
+    "tags": ["action", "shooter", "space"],
+    "category": "action",
+    "i18n": {
+      "en": {
+        "name": "Space Shooter",
+        "description": "Defend the galaxy from alien invaders in this intense space shooting game."
+      },
+      "zh-TW": {
+        "name": "太空射擊",
+        "description": "在這款激烈的太空射擊遊戲中保衛銀河系免受外星入侵者的攻擊。"
+      },
+      "ja": {
+        "name": "スペースシューター",
+        "description": "この激しい宇宙シューティングゲームでエイリアンの侵略者から銀河を守ろう。"
+      }
+    }
+  },
+  {
+    "slug": "word-wizard",
+    "isFeatured": false,
+    "game_url": "https://example.com/games/word-wizard",
+    "cover_image_url": "https://via.placeholder.com/400x300/059669/FFFFFF?text=Word+Wizard",
+    "developer": "WordPlay Inc",
+    "rating": "8.9",
+    "votes": "167890",
+    "tags": ["word", "puzzle", "educational"],
+    "category": "puzzle",
+    "i18n": {
+      "en": {
+        "name": "Word Wizard",
+        "description": "Test your vocabulary and spelling skills with this engaging word puzzle game."
+      },
+      "zh-TW": {
+        "name": "單詞巫師",
+        "description": "通過這款引人入勝的單詞拼圖遊戲測試你的詞彙和拼寫技能。"
+      },
+      "ja": {
+        "name": "ワードウィザード",
+        "description": "この魅力的な単語パズルゲームで語彙力とスペリングスキルをテストしよう。"
+      }
+    }
+  }
+]

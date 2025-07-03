@@ -1,0 +1,40 @@
+{
+  "Header": {
+    "home": "首頁",
+    "games": "遊戲",
+    "categories": "分類",
+    "search_placeholder": "搜尋遊戲...",
+    "language": "語言"
+  },
+  "Hero": {
+    "title": "暢玩精彩遊戲",
+    "subtitle": "即刻開始",
+    "description": "探索數千款免費線上遊戲。無需下載，無需註冊。點擊即玩！",
+    "play_now": "立即遊玩",
+    "browse_games": "瀏覽遊戲",
+    "featured_games": "精選遊戲"
+  },
+  "GameCard": {
+    "play_now": "立即遊玩",
+    "rating": "評分",
+    "votes": "票",
+    "by": "開發者"
+  },
+  "Categories": {
+    "title": "遊戲分類",
+    "description": "按分類探索遊戲",
+    "view_all": "查看全部"
+  },
+  "Footer": {
+    "about": "關於我們",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "contact": "聯絡我們",
+    "copyright": "© 2024 遊戲門戶. 版權所有."
+  },
+  "Common": {
+    "loading": "載入中...",
+    "error": "發生錯誤",
+    "retry": "重試"
+  }
+}
