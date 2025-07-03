@@ -4,7 +4,7 @@ import { Icon } from "@/components/ui/icon";
 import { Button } from "@/components/ui/button";
 import { useTranslations } from 'next-intl';
 import { useParams } from 'next/navigation';
-import { icons } from "lucide-react";
+import { MicIcon as icons } from "lucide-react";
 import Link from "next/link";
 import categoriesData from '@/data/categories.json';
 
